@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 11 Nov 2018 09:04:00 +0800                  |
+## |         Update : Mon, 10 Dec 2018 11:20:00 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -24163,6 +24163,7 @@
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-otp1-1.xx.fbcdn.net
+2a03:2880:f007:8:face:b00c:0:1 scontent-prg1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-scl1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sea1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sin2-2.xx.fbcdn.net
@@ -24386,6 +24387,7 @@
 2a03:2880:f227:c4:face:b00c:0:43fe scontent-ort2-1.cdninstagram.com
 2a03:2880:f227:2c4:face:b00c:0:43fe scontent-ort2-2.cdninstagram.com
 2a03:2880:f223:c4:face:b00c:0:43fe scontent-otp1-1.cdninstagram.com
+2a03:2880:f223:c4:face:b00c:0:43fe scontent-prg1-1.cdninstagram.com
 2a03:2880:f22e:c4:face:b00c:0:43fe scontent-scl1-1.cdninstagram.com
 2a03:2880:f201:c4:face:b00c:0:43fe scontent-sea1-1.cdninstagram.com
 2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin2-2.cdninstagram.com
@@ -25519,6 +25521,7 @@
 #2a01:111:2003::200 tse3-mm.cn.bing.net
 #2a01:111:2003::200 tse4-mm.cn.bing.net
 2600:1406:3f::17d7:6464 a248.e.akamai.net
+2600:1417:8000::b81c:da83 img-s-msn-com.akamaized.net #a1834.dspg2.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net
@@ -26314,7 +26317,7 @@
 192.0.77.48 ts.w.org #cs287.wac.edgecastcdn.net
 
 ## add by myself
-## ## Scholar google
+## Scholar google
 2404:6800:4008:c06::be scholar.google.com
 2404:6800:4008:c06::be scholar.google.com.hk
 2404:6800:4008:c06::be scholar.google.com.tw
